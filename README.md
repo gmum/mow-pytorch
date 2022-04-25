@@ -60,6 +60,8 @@ All of the implementations are based on the respective papers and repositories.
 
 - For Cramer-Wold AutoEncoders [JMLR](https://jmlr.org/papers/v21/19-560.html) and [GitHub repository](https://github.com/gmum/cwae-pytorch)
 
+The research of S. Knop was funded by the Priority Research Area Digiworld under the program Excellence Initiative - Research University at the Jagiellonian University in Kraków. 
+
 # License
 
 This implementation is licensed under the MIT License
